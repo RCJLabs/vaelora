@@ -1,0 +1,13 @@
+{
+  "name": "Vaelora",
+  "short_name": "Vaelora",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#121610",
+  "theme_color": "#121610",
+  "icons": [
+    { "src": "./apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}

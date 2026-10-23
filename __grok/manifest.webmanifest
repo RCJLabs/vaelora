@@ -4,7 +4,8 @@
   "id": "/",
   "start_url": "/",
   "scope": "/",
-  "display": "standalone",
+  "display": "fullscreen",
+  "orientation": "portrait",
   "background_color": "#121610",
   "theme_color": "#121610",
   "icons": [
